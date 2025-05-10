@@ -20,5 +20,4 @@ Eliminated the need for traditional wired remotes or laser pointers during prese
 Enhanced user mobility and convenience, especially for educators, speakers, and conference presenters.
 
 Demonstrated the power of gesture recognition and wearable technology in real-time control systems.
-
 This project highlights a creative fusion of hardware design, embedded programming, and user-centric innovation, paving the way for next-generation human-computer interaction devices. 
